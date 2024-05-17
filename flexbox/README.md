@@ -2,11 +2,6 @@
 
 This project involves the use of HTML and CSS, particularly focusing on Flexbox, to create a responsive and visually appealing web layout. The tasks include various aspects of Flexbox, from basic usage to more advanced features.
 
-## Author
-
-- **Author:** Alexander Udeogaranya
-- **Email:** Ogranya.alex@gmail.com
-- **GitHub Username:** [Dr-dyrane](https://github.com/Dr-dyrane)
 
 ## Project Overview
 
